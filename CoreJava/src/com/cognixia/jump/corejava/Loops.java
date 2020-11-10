@@ -7,6 +7,8 @@ public class Loops {
 		//While Loop
 		System.out.println("While Loop:");
 		
+		System.out.println("New LINES");
+		
 		int count = 0;
 		boolean condition = true;
 		while (true) {
